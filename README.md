@@ -4,7 +4,7 @@ This project uses machine learning to predict the compressive strength of concre
 
 ## Dataset
 
-The dataset used in this project is the Concrete Compressive Strength dataset from the UCI Machine Learning Repository. It contains 1030 observations and 8 features:
+The dataset used in this project is the Concrete Compressive Strength It contains 1030 observations and 8 features:
 
 - Cement (kg/m^3): the amount of cement in the concrete mixture
 - Blast Furnace Slag (kg/m^3): the amount of blast furnace slag in the concrete mixture
